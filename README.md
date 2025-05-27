@@ -15,4 +15,5 @@ $ sudo apt-get install cmake libcurl4-openssl-dev libssl-dev
 сборка проекта <code>make</code>
 
 запуск 
-```<code>/cmake-build/torrent-client-prototype -d <путь к директории для сохранения скачанного файла> -p <сколько процентов от файла надо скачать> <путь к torrent-файлу></code>```
+
+<code>/cmake-build/torrent-client-prototype -d <путь к директории для сохранения скачанного файла> -p <сколько процентов от файла надо скачать> <путь к torrent-файлу></code>
